@@ -1,1 +1,1 @@
-# calc-jest
+# calculator-jest
